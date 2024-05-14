@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "212910993744",
+    "firebase_url": "https://klimatkamera-bb0e3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "klimatkamera-bb0e3",
+    "storage_bucket": "klimatkamera-bb0e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212910993744:android:39c4e741f9e0d2e2e0fc55",
+        "android_client_info": {
+          "package_name": "com.example.realtimechart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gBpj24IzKjav76qL3kH67wfR_axeq6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
